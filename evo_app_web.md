@@ -1,9 +1,8 @@
 
 ![](./Images/Header_evo.jpg)
 
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/379216?s=200&amp;v=4" width="100" height="100" alt="@w3c">
-
 ## La organización W3C
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/379216?s=200&amp;v=4" width="100" height="100" alt="@w3c">
 Este es el repositorio de la documentación que se encuentra en [https://w3c.github.io/](https://w3c.github.io).
 
 
