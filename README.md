@@ -3,7 +3,7 @@
 ## Git & GitHub desde cero: Curso gratis
 ![https://mouredev.com/git](./git_github_banner.png)
 [![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
-[![YouTube Channel Subscribers]([https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010](https://youtube.com/shorts/qprqCT9qjgo?si=aoHBmdFQX_mN1DPy))](https://youtube.com)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]([https://youtube.com/mouredevapps?sub_confirmation=1](https://youtube.com/shorts/qprqCT9qjgo?si=aoHBmdFQX_mN1DPy))
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
