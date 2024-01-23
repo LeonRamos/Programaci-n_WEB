@@ -1,3 +1,4 @@
+![](./Images/arq_web.jpg)
 # Arquitectura de un Sitio Web
 
 La arquitectura de un sitio web se refiere a la estructura organizativa y el diseño del sistema que sustenta la aplicación web. Es crucial para determinar cómo se gestionan y comunican los componentes del sitio, desde el frontend (interfaz de usuario) hasta el backend (servidores y bases de datos).
