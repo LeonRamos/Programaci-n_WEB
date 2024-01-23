@@ -7,6 +7,12 @@
 [![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]([https://youtube.com/mouredevapps?sub_confirmation=1](https://youtube.com/shorts/qprqCT9qjgo?si=aoHBmdFQX_mN1DPy))
 
+## Lo que aprenderás:
+- [Introducción a las aplicaciones Web]()
+- [HTML, XML, CSS]()
+- [Programación del lado del cliente]()
+- [Programación del lado del Servidor]()
+- [Computo en la nube y servicios]()
 
 
 ## Tecnologías:
