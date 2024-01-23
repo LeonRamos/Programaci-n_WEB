@@ -1,4 +1,4 @@
-![](./Images/arq_web.jpg)
+![](.Images/arq_web.jpg)
 
 # Arquitectura de un Sitio Web
 
