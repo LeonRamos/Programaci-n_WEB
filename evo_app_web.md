@@ -6,7 +6,7 @@
 El World Wide Web, creado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee) en 1989, ha experimentado una evolución significativa desde sus inicios, transformando la manera en que accedemos y compartimos información a través de Internet.
 
 <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/379216?s=200&amp;v=4" width="100" height="100" alt="@w3c">
-## La organización W3C
+# La organización W3C
 Este es el repositorio de la documentación que se encuentra en [https://w3c.github.io/](https://w3c.github.io).
 
 
