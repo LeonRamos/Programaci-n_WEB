@@ -1,4 +1,4 @@
-![](./Images/header.gif)
+![](./Images/)
 
 # COMPETENCIA GENERAL
 - Conoce la evolución, arquitectura, tecnologías y planificación de las aplicaciones Web para la preparación de un ambiente de desarrollo.
