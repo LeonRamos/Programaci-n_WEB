@@ -3,7 +3,7 @@
 
 # Historia y Evolución del World Wide Web (WWW) y sus 5 Generaciones
 
-El World Wide Web, creado por Tim Berners-Lee en 1989, ha experimentado una evolución significativa desde sus inicios, transformando la manera en que accedemos y compartimos información a través de Internet.
+El World Wide Web, creado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee) en 1989, ha experimentado una evolución significativa desde sus inicios, transformando la manera en que accedemos y compartimos información a través de Internet.
 
 ## Historia del World Wide Web
 
