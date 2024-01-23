@@ -4,7 +4,7 @@ La arquitectura de un sitio web se refiere a la estructura organizativa y el dis
 
 **Tipos de Arquitectura de Sitios Web:**
 
-1. **Arquitectura Monolítica:**
+1. [**Arquitectura Monolítica:**](https://aws.amazon.com/es/compare/the-difference-between-monolithic-and-microservices-architecture/#:~:text=Una%20arquitectura%20monol%C3%ADtica%20es%20un,de%20datos%20dentro%20del%20sistema.)
    - *Descripción:* En un enfoque monolítico, toda la aplicación se desarrolla y despliega como una única unidad. El frontend y el backend están acoplados, y todas las funciones se manejan en un solo código base.
    - *Ejemplo:* WordPress (versión clásica).
 
