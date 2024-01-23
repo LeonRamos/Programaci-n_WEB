@@ -8,19 +8,19 @@ La arquitectura de un sitio web se refiere a la estructura organizativa y el dis
    - *Descripción:* En un enfoque monolítico, toda la aplicación se desarrolla y despliega como una única unidad. El frontend y el backend están acoplados, y todas las funciones se manejan en un solo código base.
    - *Ejemplo:* WordPress (versión clásica).
 
-2. **Arquitectura de Microservicios:**
+2. [**Arquitectura de Microservicios:**](https://learn.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices)
    - *Descripción:* Divide la aplicación en pequeños servicios independientes y autónomos. Cada servicio se encarga de una función específica y se comunica con otros servicios a través de API.
    - *Ejemplo:* Netflix, Spotify.
 
-3. **Arquitectura Serverless:**
+3. [**Arquitectura Serverless:**](https://aws.amazon.com/es/lambda/serverless-architectures-learn-more/)
    - *Descripción:* No requiere administración directa de servidores. Las funciones individuales se ejecutan en respuesta a eventos y se escalan automáticamente.
    - *Ejemplo:* AWS Lambda, Azure Functions.
 
-4. **Arquitectura de Contenedores:**
+4. [**Arquitectura de Contenedores:**](https://cloud.google.com/learn/what-are-containers?hl=es)
    - *Descripción:* Utiliza contenedores para encapsular y desplegar aplicaciones y sus dependencias de manera consistente. Docker es comúnmente utilizado.
    - *Ejemplo:* Kubernetes.
 
-5. **Arquitectura de JAMstack:**
+5. [**Arquitectura de JAMstack:**](https://www.cloudflare.com/es-es/learning/performance/what-is-jamstack/)
    - *Descripción:* Basada en la separación de la presentación y la lógica del servidor. Utiliza JavaScript, APIs y servicios precompilados para generar páginas estáticas que se sirven a través de CDNs.
    - *Ejemplo:* Gatsby, Hugo.
 
