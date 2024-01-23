@@ -2,6 +2,7 @@
 
 ## Git & GitHub desde cero: Curso gratis
 ![https://mouredev.com/git](./git_github_banner.png)
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
