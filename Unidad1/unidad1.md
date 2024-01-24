@@ -11,3 +11,4 @@
 - [Arquitectura de las aplicaciones web.](arq_app_web.md)
 - [Tecnologías para el desarrollo de aplicaciones web.](tec_app_web.md)
 - [Planificación de aplicaciones web.](plan_app_web.md)
+- [Badges.](badges.md)
