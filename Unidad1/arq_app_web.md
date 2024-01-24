@@ -1,4 +1,4 @@
-![]([[./Unidad1/arq_web.jpg](https://github.com/LeonRamos/Programaci-n_WEB/blob/main/Unidad1/arq_app_web.md?plain=1#:~:text=Header_evo.jpg-,arq_web,-.jpg)](https://github.com/LeonRamos/Programaci-n_WEB/blob/main/Images/arq_web.jpg))
+![](https://github.com/LeonRamos/Programaci-n_WEB/blob/main/Images/arq_web.jpg)
 
 # Arquitectura de un Sitio Web
 
