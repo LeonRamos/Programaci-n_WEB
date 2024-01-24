@@ -9,36 +9,36 @@ El desarrollo de aplicaciones web involucra una variedad de tecnologías y herra
    - Ejemplos de uso: Creación de la estructura de una página web, incluyendo encabezados, párrafos, enlaces, imágenes, formularios, etc.
    - Ventajas: Fácil de aprender, soportado por todos los navegadores web, compatible con otras tecnologías web.
    - Desventajas: Limitado en cuanto a diseño y funcionalidad avanzada.
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 2. **CSS (Cascading Style Sheets)**
    - Descripción: CSS se utiliza para controlar el estilo y el diseño de las páginas web, permitiendo a los desarrolladores cambiar el aspecto visual de los elementos HTML.
    - Ejemplos de uso: Aplicación de estilos visuales como colores, fuentes, márgenes, y diseños de página.
    - Ventajas: Separación clara entre contenido y presentación, reutilización de estilos, fácil mantenimiento.
    - Desventajas: Curva de aprendizaje para conceptos más avanzados, inconsistencias de rendimiento en algunos navegadores.
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 3. **JavaScript**
    - Descripción: JavaScript es un lenguaje de programación que se utiliza para agregar interactividad y dinamismo a las páginas web, permitiendo la manipulación del contenido y la respuesta a las acciones del usuario.
    - Ejemplos de uso: Validación de formularios, animaciones, llamadas a API, efectos visuales interactivos.
    - Ventajas: Ampliamente compatible, soportado por todos los navegadores modernos, permite la creación de experiencias de usuario altamente interactivas.
    - Desventajas: Riesgo de vulnerabilidades de seguridad si no se maneja adecuadamente, rendimiento del lado del cliente puede ser limitado en comparación con tecnologías del lado del servidor.
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 4. **Frameworks de Front-end (por ejemplo, React, Angular, Vue.js)**
    - Descripción: Estos son conjuntos de herramientas y librerías que permiten a los desarrolladores construir interfaces de usuario interactivas y eficientes.
    - Ejemplos de uso: Desarrollo de aplicaciones de una sola página (SPA), interfaces de usuario dinámicas y reactivas.
    - Ventajas: Reutilización de componentes, rendimiento optimizado, desarrollo rápido de interfaces de usuario complejas.
    - Desventajas: Curva de aprendizaje para principiantes, exceso de flexibilidad puede llevar a decisiones ineficientes de diseño.
+* ![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=00dafc&labelColor=222222&color=222222)
 
 5. **Backend Technologies (por ejemplo, Node.js, Django, Ruby on Rails)**
    - Descripción: Estas tecnologías se utilizan para desarrollar la lógica del servidor y la funcionalidad detrás de una aplicación web.
    - Ejemplos de uso: Gestión de bases de datos, autenticación de usuarios, lógica de negocios.
    - Ventajas: Escalabilidad, rendimiento, gestión eficiente de solicitudes del cliente.
    - Desventajas: Mayor complejidad en comparación con el desarrollo de front-end, requerimientos de seguridad y rendimiento más estrictos.
-
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* ![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=00dafc&labelColor=222222&color=222222)
 * ![PostsgreSQL](https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=336791&color=336791)
+
 
 ### Herramientas y Tecnologías de DevOps
 
