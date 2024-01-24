@@ -1,4 +1,4 @@
-![](![](https://github.com/LeonRamos/Programaci-n_WEB/blob/main/Images/Header_evo.jpg))
+![](https://github.com/LeonRamos/Programaci-n_WEB/blob/main/Images/tec_web.jpg)
 
 ### Tecnologías y Herramientas para el Desarrollo de Aplicaciones Web
 
